@@ -140,15 +140,19 @@ The analysis helps identify:
 
 Home Page
 
-Add Home Page screenshot here
+![home page](home page.png)
 
-Customer Demographics
+overvew page
 
-Add Customer Demographics screenshot here
+![overview page](overview page.png)
+
+Customer Analaysis Page
+
+![customer analysis page](customer analysis page.png)
 
 Account & Card Analysis
 
-Add Account & Card Analysis screenshot here
+![account and card analsysis page](account and card analaysis.png)
 
 Transaction Analysis
 
